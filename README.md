@@ -1,5 +1,11 @@
 # Multimodal Fake News Classifier
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][https://github.com/arnabbiswas66/multimodal-fake-news-classifier/fork]
+[![Stargazers][stars-shield]][https://github.com/arnabbiswas66/multimodal-fake-news-classifier/stargazers]
+[![Issues][issues-shield]][https://github.com/arnabbiswas66/multimodal-fake-news-classifier/issues]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/arnab-biswas-/]
+
 ## About
 
 This is the project for identifying fake news from real news by using deep learning 
