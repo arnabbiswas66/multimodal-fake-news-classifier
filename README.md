@@ -6,6 +6,7 @@ This is the project for identifying fake news from real news by using deep learn
 and a novel technique for multimodal fusion between the textual and visual
 dimensions. The model is named **F**ake **N**ews **D**etection with **M**ulti **l**evel **A**ttention **(FND-MLA)**
 
+## Layout of the project
 * [Experiments](./Experiments) - This directory contains all the experiments conducted with Twitter
 MediaEval and Weibo datasets on individual dimensions of text and images.
 * [Analysis](./Analysis) - This directory contains the graphical analysis and t-SNE analysis
